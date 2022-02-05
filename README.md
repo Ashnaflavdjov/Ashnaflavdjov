@@ -28,6 +28,7 @@ Meu primeiro projeto real como desenvolvedor Web, um chat em tempo real criado c
 ## 🤔 Proximos projetos:
 
 - Deixar meu README bonito e não só útil, pessoas não gostam de ler :v
+- Um e-commerce de e-commerces
 
 <!--
 **Ashnaflavdjov/Ashnaflavdjov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
