@@ -7,11 +7,14 @@ Eu sou **Ashnaflavdjov**, comecei na programação em 2021 com Java e no final p
 - NodeJS (sempre).
 - ReactJS (quando necessario pra facilitar a minha vida).
 - CSS (algum dia eu uso algum framework, mas por enquanto eu me viro aprendendo mais CSS puro).
+- C# (na Unity e futuramente para APIs com .Net)
 
 ## 📖 Estou estudando:
 
 - ReactJS, ja tenho alguns projetos simples concluidos com React mas ainda estou me aprimorando pois gostei da tecnologia.
-- Sistema operacional Linux, mais especificamente Ubuntu, um distro com base Debian (pelo que eu sei é isso :v).
+- Sistema operacional Linux, mais especificamente Arch.
+- C++.
+- C# e .Net core.
 
 ## ⭐ Meus melhores projetos:
 
@@ -23,24 +26,9 @@ Eu consumi APIs no front e back-end, passando informaçoes pro server pra então
 
 ### Chatto:
 
-Meu primeiro projeto real como desenvolvedor Web, um chat em tempo real criado com o back-end feito em Node, utilizando Express e Socket.io, e por incrivel que pareça foi mais simples do que fazer uma API Rest 🗿.
+Meu primeiro projeto real como desenvolvedor Web, um chat em tempo real criado com o back-end feito em Node, utilizando Express e Socket.io.
 
 ## 🤔 Proximos projetos:
 
 - Deixar meu README bonito e não só útil, pessoas não gostam de ler :v
-- Um e-commerce de e-commerces
-
-<!--
-**Ashnaflavdjov/Ashnaflavdjov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Um e-commerce de e-commerces.
