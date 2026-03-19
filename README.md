@@ -6,9 +6,10 @@ I am **Ashnaflavdjov**, I started learning Java in 2021 but soon fell in love wi
 
 - Java.
 - JavaScript.
-- NodeJS.
-- ReactJS.
-- NextJS.
+- TypeScript.
+- Node.
+- React.
+- Next.
 - Unity C#.
 - Lua.
 - MySQL.
@@ -16,11 +17,10 @@ I am **Ashnaflavdjov**, I started learning Java in 2021 but soon fell in love wi
 
 ## 📖 Currently learning more about:
 
-- NextJS.
 - C# and .Net core.
+- Rust 🦀.
+- TypeScript.
 
 ## 🤔 My next steps:
 
-- Go back to Rust as I liked the language.
-- Start using TypeScript instead of JavaScript.
-- Create more projects that require Sockets as I find it fun to play with.
+- Create more projects using Sockets as I find it fun to play with.
